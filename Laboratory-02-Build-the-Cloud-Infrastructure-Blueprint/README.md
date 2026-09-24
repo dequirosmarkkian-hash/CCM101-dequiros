@@ -1,1 +1,11 @@
-https://github.com/dequirosmarkkian-hash/CCM101-dequiros/tree/main/Laboratory-01-Welcome-to-the-Cloud
+# Laboratory 02 - Build the Cloud Infrastructure Blueprint
+
+## Overview
+
+This laboratory focuses on designing a cloud infrastructure blueprint and comparing equivalent services across cloud providers.
+
+## Activities
+
+- Client recommendations
+- Equivalent services
+- Decision matrix
