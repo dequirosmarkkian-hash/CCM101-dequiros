@@ -1,3 +1,4 @@
+# CCM101-dequiros
 # My Course Repository
 
 ## Student Information
@@ -11,4 +12,11 @@
 This repository contains my activities, exercises, projects, and other
 requirements for this course.# course-activities
 My repository for course activities and projects.
-# CCM101-dequiros
+### Laboratories
+
+- Laboratory 01 - Welcome to the Cloud
+- Laboratory 02 - Build the Cloud Infrastructure Blueprint
+- Laboratory 03 - Multi-Cloud Explorer
+- Laboratory 04 - Cloud-Native Engineer
+- Laboratory 05 - Cloud Data Engineer
+  
