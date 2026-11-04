@@ -19,4 +19,5 @@ My repository for course activities and projects.
 - Laboratory 03 - Multi-Cloud Explorer
 - Laboratory 04 - Cloud-Native Engineer
 - Laboratory 05 - Cloud Data Engineer
+- Laboratory-10-Enterprise-Cloud-Architect
   
